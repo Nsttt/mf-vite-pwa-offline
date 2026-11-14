@@ -1,0 +1,8 @@
+node_modules
+dist
+reports
+test-results
+.DS_Store
+*.local
+.__mf__temp
+__mf__virtual
